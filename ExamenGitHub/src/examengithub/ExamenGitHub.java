@@ -21,6 +21,8 @@ public class ExamenGitHub {
         
         double doble=2.3;
         
+        String examen="Este es el examen de GitHub";
+        
     }
     
 }
