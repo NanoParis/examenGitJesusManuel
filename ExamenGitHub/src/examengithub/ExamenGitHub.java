@@ -19,6 +19,8 @@ public class ExamenGitHub {
         
         int suma=0;
         
+        double doble=2.3;
+        
     }
     
 }
